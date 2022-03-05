@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+}
+
+.logo {
+    background-color: steelblue;
+    color:antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 80px;
+}
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.recipe {
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.list, p {
+    font-size: 18px;
+}
+
+.section {
+    color: steelblue;
+}
+
+.pic {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
